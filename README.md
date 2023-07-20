@@ -1,5 +1,5 @@
 # LGM_Project_Task3:
-This is a simple Calculator form that is used for simple arithmetic calculation.This application is built using HTML,CSS,Javascript. It can be easily deployed in GitHub Page.It provides user friendly interface by which user can easily done arithmetic calculations.
+This is a simple Calculator that is used for simple arithmetic calculation.This application is built using HTML,CSS,Javascript. It can be easily deployed in GitHub Page.It provides user friendly interface by which user can easily done arithmetic calculations.
 
 # Features :
 It is simple calculator form which is used to perform simple arithmetic tasks which is calculations.It is able to perform addition,subtraction,multiplication, and etc.
